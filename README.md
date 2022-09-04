@@ -27,3 +27,4 @@ Application was created from online curses and Im learned a lot of stuff here. M
 ## Author
 
 - Author - [Malzagic on GitHub](https://github.com/Malzagic)
+- Watch Live - [Vercel](https://track-calories.vercel.app/)
