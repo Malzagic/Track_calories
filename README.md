@@ -1,6 +1,6 @@
 # TrackMeal
 
-This is the trackmeal application to calculate calories from meals. Its all created in pure VanillaJS. No framework and any libraries. Only some patterns to make code easly to create.
+This is the trackmeal application to calculate calories from meals. Its all created in pure VanillaJS. No framework and any libraries. Only some patterns to make code more readable.
 
 Im using here localstorage to save your input data, so u can leave site and when you come back its will be still there.
 
